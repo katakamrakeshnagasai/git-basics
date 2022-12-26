@@ -1,2 +1,2 @@
 # git-basics
-# This repo is creating for learning git basics
+# This repo is created for learning git basics
